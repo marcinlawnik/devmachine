@@ -10,7 +10,22 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 # https://boxstarter.org/winconfig
 Disable-GameBarTips
 
-
+#programming
 choco install git
-choco install firefox
+choco install phpstorm
 choco install pycharm-edu
+
+#utilities
+choco install firefox
+choco install notepadplusplus
+choco install anydesk.install
+choco install 7zip
+choco install keepassxc
+
+
+#media
+choco install vlc
+choco install gimp
+
+
+
