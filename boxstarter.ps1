@@ -22,6 +22,8 @@ choco install anydesk.install
 choco install 7zip
 choco install keepassxc
 
+#communication
+choco install discord
 
 #media
 choco install vlc
