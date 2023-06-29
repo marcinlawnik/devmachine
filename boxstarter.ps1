@@ -13,3 +13,4 @@ Disable-GameBarTips
 
 choco install git
 choco install firefox
+choco install pycharm-edu
