@@ -28,6 +28,6 @@ choco install discord
 #media
 choco install vlc
 choco install gimp
-
+choco install k-litecodecpackbasic
 
 
