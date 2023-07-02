@@ -30,4 +30,5 @@ choco install vlc
 choco install gimp
 choco install k-litecodecpackbasic
 choco install ffmpeg
+choco install spotify
 
