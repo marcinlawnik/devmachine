@@ -21,6 +21,7 @@ choco install notepadplusplus
 choco install anydesk.install
 choco install 7zip
 choco install keepassxc
+choco install powertoys
 
 #communication
 choco install discord
