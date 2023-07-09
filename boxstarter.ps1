@@ -14,6 +14,7 @@ Disable-GameBarTips
 choco install git
 choco install phpstorm
 choco install pycharm-edu
+choco install nvm
 
 #utilities
 choco install firefox
