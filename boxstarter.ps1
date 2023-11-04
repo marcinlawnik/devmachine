@@ -5,6 +5,8 @@
 # To run: START https://boxstarter.org/package/url?https://raw.githubusercontent.com/marcinlawnik/devmachine/main/boxstarter.ps1
 
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Get-AppxPackage Microsoft.windowscommunicationsapps | Remove-AppxPackage
+Get-AppxPackage *windowsstore*|Remove-AppxPackage
 
 # Boxstarter options
 # https://boxstarter.org/winconfig
